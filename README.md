@@ -10,11 +10,15 @@ It adds some functionality based upon additional markup.
 - `@Callout text to be used inline@`
   - This is to be used to allow for inline text to be used as a *cue* for later review.
 - `<- Other ## header`
+
    Text goes here
+
    `<-`
   - This means the enclosed block of text references a previous header and should be viewed as an *effect* or *subordinate* to it.
 - `-> label(optional)`
+
    Text goes here
+
    `->`
   - This is the spot for a *review* or *synthesis* of the notes taken.
 
