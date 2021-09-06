@@ -1,5 +1,5 @@
 # veda
-VEDA Task Management v0.0.0
+VEDA Task Management v0.0.1
 
 ## Description
 
